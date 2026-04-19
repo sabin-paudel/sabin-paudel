@@ -49,7 +49,4 @@ Full-Stack Developer focused on the **MERN stack**, building real-world applicat
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:00FFD1&height=160&section=header&text=Building%20things%2C%20breaking%20things%2C%20fixing%20them%20again%20in%20that%20order&fontSize=20&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" />
-
-*"Consistency beats intensity — small progress every day compounds into mastery."*
-
 </div>
