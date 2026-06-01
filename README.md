@@ -18,10 +18,6 @@
 ### 👨‍💻 About
 
 Full-Stack Developer focused on the **MERN stack**, building real-world applications with clean architecture and maintainable code. Based in **Nepal 🇳🇵**.
-
-- 🔐 Currently working on: JWT auth systems & e-commerce platforms  
-- 💬 Ask me about: `React` `Node.js` `Express` `MongoDB` `REST APIs`
-
 ---
 
 ### 🛠️ Stack
