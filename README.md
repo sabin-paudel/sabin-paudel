@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:00FFD1&height=160&section=header&text=Sabin%20Paudel&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+scalable+systems+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+modern+web+applications+%F0%9F%9A%80;Passionate+about+clean+UI+and+great+UX" />
 
 <br/>
 
@@ -15,34 +15,79 @@
 
 ---
 
-### 👨‍💻 About
+# Hi, I'm Sabin Paudel 👋
 
-Full-Stack Developer focused on the **MERN stack**, building real-world applications with clean architecture and maintainable code. Based in **Nepal 🇳🇵**.
+Frontend Developer from Nepal focused on building fast, responsive, and user-friendly web applications.
+
+I enjoy turning ideas into real products using modern technologies and continuously improving my skills through hands-on development.
+
+📍 Nepal
+
 ---
 
-### 🛠️ Stack
+## 👨‍💻 About Me
+
+- Frontend Developer specializing in React and Next.js
+- Passionate about creating clean and intuitive user experiences
+- Strong interest in modern web technologies and performance optimization
+- Experienced with API integration and scalable frontend architecture
+- Always learning and exploring new technologies
+
+---
+
+## 🚀 Current Focus
+
+- Next.js Applications
+- TypeScript
+- Frontend Architecture
+- UI/UX Development
+- Performance Optimization
+- Full-Stack Web Development
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,tailwind,git,postman&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,postman,vscode&theme=dark"/>
+
 </div>
 
 ---
 
-### 📊 Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sabin404&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=0A84FF&currStreakLabel=00FFD1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sabinpaudel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&icon_color=00FFD1"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabin404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinpaudel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
+## 🔥 Contribution Streak
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:00FFD1&height=160&section=header&text=Building%20things%2C%20breaking%20things%2C%20fixing%20them%20again%20in%20that%20order&fontSize=20&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sabinpaudel&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=0A84FF&currStreakLabel=00FFD1" />
+
 </div>
+
+---
+
+## 🌟 Featured Skills
+
+```text
+Frontend Development
+React.js
+Next.js
+TypeScript
+JavaScript
+Tailwind CSS
+Responsive Design
+REST API Integration
+State Management
+Git & GitHub
