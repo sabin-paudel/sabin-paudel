@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:00FFD1&height=160&section=header&text=Sabin%20Paudel&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:00FFD1&height=170&section=header&text=Sabin%20Paudel&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+modern+web+applications+%F0%9F%9A%80;Passionate+about+clean+UI+and+great+UX" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Frontend+Developer+from+Nepal;React+Developer+%7C+Next.js+Developer;TypeScript+%7C+JavaScript+%7C+Tailwind+CSS;Building+Fast+Modern+Responsive+Web+Applications;Always+Learning+Always+Building+%F0%9F%9A%80" />
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=sabinpaudel&label=Profile+Views&color=0A84FF&style=flat)
 
 <br/>
 
@@ -15,79 +19,128 @@
 
 ---
 
-# Hi, I'm Sabin Paudel 👋
+# Hi there 👋, I'm Sabin Paudel
 
-Frontend Developer from Nepal focused on building fast, responsive, and user-friendly web applications.
+### Frontend Developer | React Developer | Next.js Developer | TypeScript Developer
 
-I enjoy turning ideas into real products using modern technologies and continuously improving my skills through hands-on development.
+I'm a **Frontend Developer from Nepal 🇳🇵** passionate about building **fast, responsive, scalable, and user-friendly web applications**.
 
-📍 Nepal
+I specialize in **React.js**, **Next.js**, **TypeScript**, **JavaScript**, and **Tailwind CSS**, with experience integrating **REST APIs**, improving **web performance**, and creating intuitive user experiences.
+
+I enjoy turning ideas into real-world products while continuously learning modern web technologies and software engineering best practices.
 
 ---
 
 ## 👨‍💻 About Me
 
-- Frontend Developer specializing in React and Next.js
-- Passionate about creating clean and intuitive user experiences
-- Strong interest in modern web technologies and performance optimization
-- Experienced with API integration and scalable frontend architecture
-- Always learning and exploring new technologies
+- 💻 Frontend Developer specializing in **React.js**, **Next.js**, and **TypeScript**
+- ⚡ Building responsive, scalable, and high-performance web applications
+- 🎨 Passionate about UI/UX, accessibility, and clean frontend architecture
+- 🔗 Experienced with REST API integration and state management
+- 🌱 Currently expanding my Full Stack development skills with Node.js and MongoDB
+- 🚀 Love solving real-world problems through code
+- 📍 Based in Nepal
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Currently Working With
 
-- Next.js Applications
+- React.js
+- Next.js
 - TypeScript
-- Frontend Architecture
-- UI/UX Development
+- JavaScript (ES6+)
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Responsive Web Design
+- Frontend Performance Optimization
+- Git & GitHub
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
+</p>
+
+---
+
+---
+
+
+
+## 💼 Core Skills
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- UI Development
+- REST API Integration
+- Git & GitHub
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced Next.js
+- Software Architecture
+- Design Patterns
+- Backend Development
+- System Design
 - Performance Optimization
-- Full-Stack Web Development
 
 ---
 
-## 🛠️ Tech Stack
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,postman,vscode&theme=dark"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabin-paudel10/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/sabinpaudel_)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/paudelsabin10)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCUfL03WtZfBEdLKplRHEoyQ)
 
 </div>
 
----
 
-## 📈 GitHub Stats
+
+## 🔑 Keywords
+
+React Developer • Next.js Developer • TypeScript Developer • JavaScript Developer • Frontend Developer • Frontend Engineer • Full Stack Developer • MERN Stack Developer • React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Node.js • Express.js • MongoDB • REST API • Responsive Web Design • UI Developer • Web Developer Nepal • Open Source • GitHub
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sabinpaudel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&icon_color=00FFD1"/>
+### ⭐ Thanks for visiting my profile!
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinpaudel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sabinpaudel&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=0A84FF&currStreakLabel=00FFD1" />
+*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
-
----
-
-## 🌟 Featured Skills
-
-```text
-Frontend Development
-React.js
-Next.js
-TypeScript
-JavaScript
-Tailwind CSS
-Responsive Design
-REST API Integration
-State Management
-Git & GitHub
