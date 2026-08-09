@@ -23,7 +23,7 @@
 
 ### Frontend Developer | React Developer | Next.js Developer | TypeScript Developer
 
-I'm a **Frontend Developer from Nepal 🇳🇵** passionate about building **fast, responsive, scalable, and user-friendly web applications**.
+I'm a **Frontend Developer from Pokhara, Nepal 🇳🇵** passionate about building **fast, responsive, scalable, and user-friendly web applications**.
 
 I specialize in **React.js**, **Next.js**, **TypeScript**, **JavaScript**, and **Tailwind CSS**, with experience integrating **REST APIs**, improving **web performance**, and creating intuitive user experiences.
 
